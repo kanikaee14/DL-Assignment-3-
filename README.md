@@ -175,15 +175,7 @@ python evaluate.py
 This will:
 - Create ground truth COCO format annotations
 - Load predictions from `test-results.json`
-- Compute COCO metrics (AP, AP50, AP75, AR, etc.)
-- Save metrics to `evaluation_metrics.json`
 - Display results
-
-**Output metrics:**
-- AP (Average Precision)
-- AP50 (AP at IoU=0.5) - **Primary metric**
-- AP75 (AP at IoU=0.75)
-- AR (Average Recall)
 
 ### Step 5: Create Submission
 
