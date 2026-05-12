@@ -60,8 +60,8 @@ pip install -r requirements.txt
 ```
 
 **Key libraries:**
-- PyTorch 2.0.0 with CUDA support
-- torchvision 0.15.0
+- PyTorch 2.6.0 with CUDA support
+- torchvision 0.21.0
 - albumentations for data augmentation
 - tifffile for reading medical images
 - pycocotools for evaluation metrics
@@ -380,7 +380,7 @@ For issues:
 1. Check the Troubleshooting section
 2. Review the dataset with `prepare_data.py`
 3. Verify CUDA/GPU setup with torch test
-4. Post on E3 discussion board
+
 
 ---
 
