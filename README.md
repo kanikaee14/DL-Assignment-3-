@@ -103,9 +103,9 @@ python train.py
 ```
 
 **Configuration (in train.py):**
-- Batch size: 4 (adjust based on GPU memory)
+- Batch size: 50 (adjust based on GPU memory)
 - Learning rate: 0.001
-- Number of epochs: 50
+- Number of epochs: 40
 - Optimizer: SGD with momentum
 - Learning rate scheduler: StepLR (reduce by 0.1 every 10 epochs)
 
