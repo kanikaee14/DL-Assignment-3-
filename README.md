@@ -381,8 +381,13 @@ For issues:
 2. Review the dataset with `prepare_data.py`
 3. Verify CUDA/GPU setup with torch test
 
+ ## codabench rank 
+ couldnot able to add my file because everytime it was showing error and when later i corrected it , it was showing the troubleshoot while uploading the file , i am sorry for that 
+ thanks for understanding . 
 
----
+<img width="1186" height="45" alt="Screenshot 2026-05-12 at 7 23 50 PM" src="https://github.com/user-attachments/assets/8f63ab3b-d32e-4cea-910c-4dbf48c0f674" />
+
+
 
 **Last Updated:** May 2026
 **Python Version:** 3.9+
